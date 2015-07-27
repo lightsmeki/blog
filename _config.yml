@@ -7,7 +7,7 @@ title: Burin's blog #站点名
 subtitle: 诶嘿嘿诶嘿嘿 #副标题
 description: android开发进行时>< #对站点的描述
 author: burin #在站点左下角可以看到
-email: zy06812@hoxmail.com #邮箱
+email: zy06812@foxmail.com #邮箱
 language: zh-CN #语言，用中文啦
 
 # URL
@@ -89,6 +89,6 @@ plugins:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repository: git@github.com:SeniorZhai/SeniorZhai.github.io.git
-  #repository: ssh://github.com/SeniorZhai/SeniorZhai.github.io.git
+  repository: git@github.com:lightsmeki/lightsmeki.github.io.git
+  #repository: ssh://github.com/lightsmeki/lightsmeki.github.io.git
   branch: master
